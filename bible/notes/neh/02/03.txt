@@ -1,0 +1,64 @@
+====== Nehemiah 02:3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 I replied, "Your majesty, I hope you will live a very long time! But how can I prevent myself from being sad, because the city where my ancestors are buried \add has been destroyed\add* and is in ruins?\f + \ft Or: I cannot keep myself from looking sad, because the city where my ancestors are buried \add has been destroyed\add* and is in ruins. \f* \f + \ft rhetorical question \f* Even the city gates have been completely burned."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 I replied, "O King, may you rule for many, many years! I am sad for a reason, because the city in which my ancestors are buried has been turned to rubble, and all the gates aound the city have been burned to ashes."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 I said to the king, "May the king live forever! Why should not my face be sad, when the city, the place of my fathers’ tombs, lies in ruins? The gates there have been destroyed by fire.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[en:obe:other:king]]
+  * [[:ti:obe:kt:life]]
+  * [[:ti:obe:kt:forever]]
+  * [[en:obe:kt:face]]
+  * [[en:obe:other:father]]
+  * [[:ti:obe:other:tomb]]
+  * [[:ti:obe:other:ruin]]
+  * [[:ti:obe:kt:gate]]
+  * [[:ti:obe:other:fire]]
+ 
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:neh:02|Nehemiah Chapter 02 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/neh/02/01|<<]] | [[en/bible/notes/neh/02/04|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

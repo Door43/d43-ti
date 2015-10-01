@@ -1,0 +1,73 @@
+====== 1 Kings 11:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 King Solomon married many foreign women. First he married the daughter of the king of Egypt. He also married women from the Heth people-group and from the Moab, Ammon, and Edom people-groups, and from Sidon \add city\add*.
+\v 2 He married them even though Yahweh had commanded the Israelite people saying, "Do not marry people from those areas, because if you do that, they will surely persuade you [IDI] to worship the gods that they worship!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 King Solomon married many foreign women. First he married the daughter of the king of Egypt. He also married women from the Heth people group and from the Moab, Ammon, and Edom people groups, and from the city of Sidon.
+\v 2 He married them even though Yahweh had commanded the Israelite people saying, "Do not marry people from those areas, because if you do that, they will surely persuade you to worship the gods that they worship!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 11
+\p
+\v 1 Now King Solomon loved many foreign women: the daughter of Pharaoh and women of the Moabites, Ammonites, Edomites, Sidonians, and Hittites—
+\v 2 nations concerning which Yahweh had said to the people of Israel, "You will not go among them to marry, neither will they come among you, for they will certainly turn your heart to their gods." But Solomon loved these women.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:ti:obe:other:king]]
+  * [[:ti:obe:other:solomon]]
+  * [[:ti:obe:kt:love]]
+  * [[:ti:obe:other:foreigner]]
+  * [[:ti:obe:other:pharaoh]]
+  * [[:ti:obe:other:moab]]
+  * [[:ti:obe:other:ammon]]
+  * [[:ti:obe:other:edom]]
+  * [[:ti:obe:other:sidon]]
+  * [[:ti:obe:other:hittite]]
+  * [[:ti:obe:other:nation]]
+  * [[:ti:obe:kt:yahweh]]
+  * [[:ti:obe:other:peoplegroup]]
+  * [[:ti:obe:other:israel]]
+  * [[:ti:obe:other:heart]]
+  * [[:ti:obe:kt:falsegod]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:1ki:11|1 Kings Chapter 11 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ki/10/28|<<]] | [[en/bible/notes/1ki/11/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

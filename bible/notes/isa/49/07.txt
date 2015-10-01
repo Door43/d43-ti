@@ -1,0 +1,74 @@
+====== Isaiah 49:7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 Yahweh, the one who saves us,
+\q2 the Holy God of us Israelite people,
+\q1 says to the one who was despised and rejected by the \add people of many\add* nations,
+\q2 to the one who is the slave of rulers,
+\q1 "\add Some day\add* kings will stand up to respect you when they see you,
+\q2 and princes will bow down before you
+\q1 because \add you serve\add* me, Yahweh, the one who faithfully \add does what I promise\add*.
+\q2 I am the Holy God to whom you Israelites belong, the one who has chosen you."
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Yahweh, the one who saves us,
+\q2 the Holy God of us Israelite people,
+\q1 says to the one who was despised and rejected by the people of many nations,
+\q2 to the one who is the slave of rulers,
+\q1 "Some day kings will stand up to respect you when they see you,
+\q2 and princes will bow down before you
+\q1 because you serve me, Yahweh, the one who faithfully does what I promise.
+\q2 I am the Holy God to whom you Israelites belong, the one who has chosen you."
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 7 This is what Yahweh says, the Redeemer of Israel, their Holy One, 
+\q1 to the one who is despised, abhored by the nations, a slave of rulers: 
+\q1 "Kings will see you and arise, and princes will see you and bow down,
+\q1 because of Yahweh who is faithful, even the Holy One of Israel, who has chosen you."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ti:obe:kt:yahweh]]
+  * [[:ti:obe:kt:redeem]]
+  * [[:ti:obe:other:israel]]
+  * [[:ti:obe:kt:holyone]]
+  * [[:ti:obe:other:nation]]
+  * [[:ti:obe:other:servant]]
+  * [[:ti:obe:other:ruler]]
+  * [[:ti:obe:other:king]]
+  * [[:ti:obe:other:reverence]]
+  * [[:ti:obe:other:prince]]
+  * [[:ti:obe:kt:bow]]
+  * [[:ti:obe:kt:faithful]]
+  * [[:ti:obe:kt:elect]]
+
+===== Translation Notes: =====
+
+  * **abhored by the nations** - "rejected by the people of many nations"
+  * **Kings will see you and arise** - "someday kings will stand up to respect you when they see you"
+  * **because of Yahweh** - "because you serve Yahweh"
+
+===== Links: =====
+
+  * **[[:ti:bible:questions:comprehension:isa:49|Isaiah Chapter 49 Comprehension Questions]]**
+**[[:ti:bible:notes:isa:49:05|<<]] | [[:ti:bible:notes:isa:49:08|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

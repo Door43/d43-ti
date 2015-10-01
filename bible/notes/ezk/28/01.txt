@@ -1,0 +1,72 @@
+====== Ezekiel 28:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then Yahweh gave me another message. He said:
+\v 2 "You human, give to the king of Tyre this message from me, Yahweh the Lord:
+\q1 You have very proudly claimed, 'I am a god!
+\q2 I sit on a throne \add in a city on an island\add* in the sea!'
+\q1 You boast that you are a god,
+\q2 but you are only a man, not a god.
+\q1
+\v 3 You think that you are wiser than Daniel was,
+\q2 and you think that you can understand every secret.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then Yahweh gave me another message. He said:
+\v 2 "Son of man, give to the king of Tyre this message from me, Yahweh the Lord:
+\q1 'You have very proudly claimed that you are a god,
+\q2 and that you are untouchable, since you sit on a throne in a city on an island in the sea!
+\q1 You boast that you are a god,
+\q2 but you are in reality only a man, not a god.
+\q1
+\v 3 You think that you are wiser than Daniel was,
+\q2 and you think that you can understand every secret.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 28
+\p
+\v 1 Then the word of Yahweh came to me and said,
+\v 2 “Son of man, say to the ruler of Tyre, ‘The Lord Yahweh says this: Your heart is arrogant! You have said, “I am a god! I will sit in the seat of the gods in the heart of the seas!” Even though you are a man and not God, you make your heart like the heart of a god;
+\v 3 you think that you are wiser than Daniel, and that no secret amazes you!
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ti:obe:kt:wordofgod]]
+  * [[:ti:obe:kt:sonofman]]
+  * [[:ti:obe:other:ruler]]
+  * [[:ti:obe:other:tyre]]
+  * [[:ti:obe:kt:lordyahweh]]
+  * [[:ti:obe:other:heart]]
+  * [[:ti:obe:kt:falsegod]]
+  * [[:ti:obe:kt:wise]]
+  * [[:ti:obe:other:daniel]]
+
+===== Translation Notes: =====
+
+  * **thus says**  - This is phrase means "this is what the Lord says".
+  * **seat of the gods-**  "in a place to show power over other people".
+  * **in the heart of the seas**  - "in a place in the center of the sea, far away from common people".
+  * **though your heart is set ****like the heart of God**- "you think and boast that you are like God". The word "though" introduces the idea of contrast.  There are two metaphors in this phrase. (See: Metaphor)
+  * **no secret amazes you **- "nothing surprises you".
+  * **Behold**  - The word “behold” here adds emphasis to what follows. It can also be translated as “Indeed.”
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:ezk:28|Ezekiel Chapter 28 Comprehension Questions]]**
+**[[:ti:bible:notes:ezk:27:34|<<]] | [[:ti:bible:notes:ezk:28:04|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~
