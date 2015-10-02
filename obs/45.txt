@@ -1,109 +1,55 @@
-====== 45. Stephen and Philip ======
-
+====== 45. ፊልጶስን እቲ ኢትዮጵያዊው ብዓል ስልጣንን ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg}}
 
-
-One of the leaders in the early Church was a man named Stephen. He had a good reputation and was full of the Holy Spirit and of wisdom. Stephen did many miracles and reasoned persuasively that people should believe in Jesus.
-
-
-
+ኣብታ ጥንታዊት ቤተኽርስቲያን ካብዝነበሩ መራሕቲ እስጢፋኖስ ዝበሃል ሰብ ነበረ። ንሱ ውሩይ ስም ዘለዎን መንፈስ ቅዱስን ጥበብን ዝመልኦ ሰብ ነበረ። እስጢፋኖስ ብዙሕ ተኣምራት ዝገበረን ሰባት ብኢየሱስ ምእንቲ ክኣምኑ ኣፀቢቑ ዝዛረብ ሰብ ነበረ።
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg}}
 
-
-One day, when Stephen was teaching about Jesus, some Jews who did not believe in Jesus began to argue with Stephen. They became very angry and lied about Stephen to the religious leaders. They said, “We heard him speak evil things about Moses and God!” So the religious leaders arrested Stephen and brought him to the high priest and the other leaders of the Jews, where more false witnesses lied about Stephen.
-
-
-
+ሓደ መዓልቲ እስጢፋኖስ ስለ ኢየሱስ እናመሃረ እንተሎ፣ ብኢየሱስ ዘይኣምኑ ኣይሁድ ምስኡ ምክርኻር ጀመሩ። ኣዝዮም ብምቚጣዕ ድማ ብዛዕባ እስጢፋኖስ ንመራሕቲ ሃይማኖት ዘይኰነ ሓስዮም ተዛረቡ። ‹‹ብዛዕባ ሙሴን እግዚኣብሄርን ክፉእ ነገር ክዛረብ ሰሚዕናዮ ኢና!›› ከኣ በሉ። ስለዚ እቶም መራሕቲ ሃይማኖት ንእስጢፋኖስ ሒዞም ካልኦት ናይ ሕሶት መሰኻኽር ወሲኾም ናብቲ ሊቀኻህናትን ናፍቶም ካልኦት መራሕቲ ኣይሁድን ኣምፅእዎ።
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg}}
 
-
-The high priest asked Stephen, “Are these things true?” Stephen replied by reminding them of many of the great things God had done from the time of Abraham to the time of Jesus, and how God’s people continually disobeyed him. Then he said, “You stubborn and rebellious people always reject the Holy Spirit, just as your ancestors always rejected God and killed his prophets. But you did something worse than they did! You killed the Messiah!”
-
-
-
+እቲ ሊቀኻህናት ንእስጢፋኖስ፣ ‹‹እዞም ይበሃሉ ዘለዉ ነገራት ሓቂ ድዮም?›› ኢሉ ሓተቶ። እስጢፋኖስ ነቶም ካብ ዘበን ኣብርሃም ኣትሒዙ ክሳዕ እቲ ኢየሱስ ዝነበረሉ እግዚኣብሄር ዝገበሮም ዓበይቲ ነገራትን ህዝቢ እግዚኣብሄር ብተደጋጋሚ ከመይ ይዕምፁ ከምዝነበሩን ብምዝካር መልሱ ሃበ። ቀፂሉ ድማ ከምዚ በለ፤ ‹‹ኣቱም ተረርቲ ክሳድን ዓመፀኛታትን፣ ከምቲ ኣቦሓጎታትኩም ንእግዚኣብሄር እተቓወምዎን ንነብያቱ ዝቐተልዎምን፣ ንስኻትኩም’ውን ኩልሻዕ ንመንፈስ ቅዱስ ትቃወሙ። ንስኻትኩም ግና ካብኣቶም ዝገደደ ነገር ገበርኩም፤ ነቲ መሲሕ ቀተልኩምዎ!››
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg}}
 
-
-When the religious leaders heard this, they were so angry that they covered their ears and yelled loudly. They dragged Stephen out of the city and threw stones at him in order to kill him.
-
-
-
+እቶም መራሕቲ ሃይማይኖት ነዚ ምስ ሰምዑ፣ ኣእዛኖም ደፊኖም ክሳዕ ዝጭድሩ ኣዝዮም ተቘጥዑ። ንእስጢፋኖስ ካፍታ ከተማ ጐቲቶም ኣውፂኦም ብእምኒ ቀጥቀጥዎ።
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg}}
 
-
-As Stephen was dying, he cried out, “Jesus, receive my spirit.” Then he fell to his knees and cried out again, “Master, do not count this sin against them.” Then he died.
-
-
-
+እስጢፋኖስ ክመውት እንተሎ ዓው ኢሉ፣ ‹‹ዎ ኢየሱስ፣ ነፍሰይ ተቐበላ›› በለ። ካብኡ ብብርኩ ተበሪኹ መሊሱ ዓው ኢሉ፣ ‹‹ዎ ጎይታ፣ ነዚ ሓጥያቶም ኣይትሓዘሎም›› በለ። ብድሕሪኡ ሞተ።
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg}}
 
-
-A young man named Saul agreed with the people who killed Stephen and guarded their robes while they threw stones at him. That day, many people in Jerusalem started persecuting the followers of Jesus, so the believers fled to other places. But in spite of this, they preached about Jesus everywhere they went.
-
-
-
+ሳውል ዝተባህለ መንእሰይ ድማ ምስቶም ንእስጢፋኖስ ዝቐተልዎ ተሰማሚዑ ናይቶ ንእስጢፋኖስ ብእምኒ ዝቕጥቅጥዎ ሰባት ክዳን ይሕሉ ነበረ። በታ ዕለት እቲኣ ኣብ ኢየሩሳሌም ዝነበሩ ብዙሓት ሰባት ነቶም ተኸተልቲ ኢየሱስ ከሳድድዎም ጀመሩ። ስለዚ እቶም ኣመንቲ ናብ ካልኦት ቦታታት ሃደሙ። ነገር ግን ስደት እንተሃለወ’ኳ ኣብ ዝኸድዎ ኩሉ ብዛዕባ ኢየሱስ ይሰብኩ ነበሩ።
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-07.jpg}}
 
-
-A disciple of Jesus’ named Philip was one of the believers who fled from Jerusalem during the persecution. He went to Samaria where he preached about Jesus and many people were saved. Then one day, an angel from God told Philip to go to a certain road in the desert. As he walked along the road, Philip saw an important official from Ethiopia riding in his chariot. The Holy Spirit told Philip to go and talk to this man.
-
-
-
+ካብቶም ካብ ኢየሩሳሌም ዝሃደሙ ኣመንቲ እቲ ሓደ ፊልጶስ ዝተባህለ ናይ ኢየሱስ ወዲመዝሙር ነበረ። ናብ ሰማርያ ከይዱ ድማ ብዛዕባ ኢየሱስ ሰቢኹ ብዙሓት ሰባት ደሓኑ። ብድሕሪኡ ሓደ መዓልቲ ካብ እግዚኣብሄር ዝተላእኸ መልኣኽ ኣብ ምድረበዳ ናብዘሎ ሓደ መንገዲ ንኽኸይድ ንፊልጰስ ነገሮ። ፊልጶስ ኣብ መንገዲ እናኸደ እንተሎ ሓደ ውሩይ ኢትዮጵያዊ ብዓል ስልጣን ብሰረገላ ክኸይድ ረኣየ። ናብዚ ሰብ ቀሪቡ ከዛርቦ መንፈስ ቅዱስ ንፊልጶስ ነገሮ።
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg}}
 
-
-When Philip approached the chariot, he heard the Ethiopian reading from what the prophet Isaiah wrote. The man read, “They led him like a lamb to be killed, and as a lamb is silent, he did not say a word. They treated him unfairly and did not respect him. They took his life away from him.”
-
-
-
+ፊልጶስ ናብቲ ሰረገላ ምስ ቀረበ፣ እቲ ኢትዮጵያዊ ካብ ትንቢት ኢሳይያስ ከንብብ ሰምዖ። እቲ ዘንብቦ ከምዚ ዝብል ነበረ፤ ‹‹ከምዝሕረድ ገንሸል ወሰድዎ፤ ከምቲ ገንሸል ስቕዝብል ሓንቲ ቃል’ኳ ኣይተዛረበን። ብፍርዲ ተወስደ፤ ኣየኽበርዎን ድማ። ካብ ምድሪ ህያዋን ከኣ ኣወገድዎ።››
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg}}
 
-
-Philip asked the Ethiopian, “Do you understand what you are reading?” The Ethiopian replied, “No. I cannot understand it unless someone explains it to me. Please come and sit next to me. Was Isaiah writing about himself or someone else?”
-
-
-
+ፊልጶስ ነቲ ኢትዮጵያዊ፣ ‹‹ነቲ እተንብቦ ተስተውዕሎዶ ኣለኻ?›› ኢሉ ጠየቖ። እቲ ኢይዮጵያዊ ከኣ፣ ‹‹ኣይፋሉን። ዘረድአኒ ሰብ እንተይሃለወ ከመይ ገይረ ከስተውዕሎ እኽእል። በይዛኻ ንዓ’ሞ ምሳይ ኮፍ በል። ኢሳይያስ ነዚ ዝፀሓፎ ብዛዕባ ባዕሉ ድዩ ወይስ ብዛዕባ ካሊእ?››
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-10.jpg}}
 
-
-Philip explained to the Ethiopian man that Isaiah was writing about Jesus. Philip also used other scriptures to tell him the good news about Jesus.
-
-
-
+ኢሳይያስ ዝፀሓፎ ብዛዕባ ኢየሱስ ከምዝዀነ ፊልጶስ ነቲ ኢትዮጵያዊ ኣብራህርሀሉ። ከምኡ’ውን ፊልጶስ ብዛዕባ ኢየሱስ ዝገልፁ ካልኦት ክፍልታት ብምጥቃስ ነዚ ብስራት ነገሮ።
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-11.jpg}}
 
-
-As Philip and the Ethiopian traveled, they came to some water. The Ethiopian said, “Look! There is some water! May I be baptized?” And he told the driver to stop the chariot.
-
-
-
+ፊልጶስን እቲ ኢትዮጵያውን እናኸዱ እንተለዉ ማይ ናብዘለዎ ቦታ በፅሑ። እቲ ኢትዮጵያዊ ከኣ፣ ‹‹ኣብዚ ስፍራ ማይ ስለዘሎ ክጥመቕዶ እኽእል?›› በለ። ነቲ ገናሒ እታ ሰረገላ ድማ ጠጠው ከብላ ነገሮ።
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-12.jpg}}
 
-
-So they went down into the water, and Philip baptized the Ethiopian. After they came up out of the water, the Holy Spirit suddenly carried Philip away to another place where he continued telling people about Jesus.
-
-
-
+ስለዚ ናብቲ ማይ ወረዱ፤ ፊልጰስ ድማ ነቲ ኢትዮጵያዊ ኣጠመቖ። ካብቲ ማይ ምስ ወፁ ከኣ መንፈስ ቅዱስ ንፊልጶስ ብሃንደበት ናብ ካልእ ቦታ ወሰዶ። ንብዙሓት ሰባት ድማ ብዛዕባ ኢየሱስ ይዛረብ ነበረ።
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg}}
 
+እቲ ኢትዮጵያዊ ንኢየሱስ ብምፍላጡ እናተሓጐሰ ናብ ዓዱ ተመልሰ።
 
-The Ethiopian continued traveling toward his home, happy that he knew Jesus.
-
-
-
-//A Bible story from: Acts 6:8-8:5; 8:26-40//
-
-
+//ታሪኽ መፅሓፍ ቅዱስ፡- ካብ ግብሪ ሃዋርያት 6፡8-8፡5፤ 8፡26-40።//
