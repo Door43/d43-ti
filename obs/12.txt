@@ -24,6 +24,10 @@
 
 ሙሴ ኢዱ ናብቲ ባሕሪ ብምዝርጋሕ ነቲ ባሕር ክመቕሎ እግዚኣብሄር ነገሮ። ሽዑ ንፋስ መጺኡ ነቲ ባሕሪ ኣብ ክልተ መቒሉ መገዲ ኣውጽአሉ።
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?direct&}}
+
+ሽዑ እስራኤላውያን እቲ ማይ ብየማነ ጸጋሞም ከም መንደቕ ኰነሎም፡ በቲ ባሕሪ ብንቑጽ መሬት ሰገሩ።
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-	ሽዑ እስራኤላውያን እቲ ማይ ብየማነ ጸጋሞም ከም መንደቕ ኰነሎም፡ በቲ ባሕሪ ብንቑጽ መሬት ሰገሩ።
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-08.jpg?direct&}}
